@@ -138,7 +138,7 @@ params:
     button:
       enable: true
       name: "Resume"
-      url: "https://drive.google.com/file/d/1IZowY8mYsZXbmIQmX-vN_dLhPyA7wgNj/view?usp=sharing"
+      # url: "https://drive.google.com/file/d/1IZowY8mYsZXbmIQmX-vN_dLhPyA7wgNj/view?usp=sharing"
       download: true
       newPage: true
     socialLinks:
@@ -324,7 +324,7 @@ params:
         image: /images/projects/hers.png
         featured:
           name: Demo
-          link: https://drive.google.com/file/d/1iKQkpHiaLwBK8Qetn2SfiRNP4Ur5Ihk_/view?usp=sharing
+          # link: https://drive.google.com/file/d/1iKQkpHiaLwBK8Qetn2SfiRNP4Ur5Ihk_/view?usp=sharing
         badges:
           - "React"
           - "HTML"
